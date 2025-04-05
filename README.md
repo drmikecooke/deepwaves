@@ -1,5 +1,5 @@
 # deepwaves
-Binder repo of deep wave work
+Binder repo of deep wave work: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drmikecooke/deepwaves.git/HEAD)
 
 This work is inspired by John D. Fenton's work available at [https://johndfenton.com/](https://johndfenton.com/). In particular I have generated comparisons with Fenton's [Fourier.exe](https://johndfenton.com/Steady-waves/Fourier.html) running in a microsoft environment with a "Data.dat" file of the form:
 
