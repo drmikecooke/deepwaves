@@ -23,5 +23,17 @@ My code is based mainly on [Fenton, J. D. (1999) Numerical methods for nonlinear
 
 ## Contents
 
-1. deep directory: Contains Fenton results
-2. Fenton-mywork.ipynb: Comparison of my code with Fenton results
+1. deep: directory containing Fenton results
+2. stokes: directory containing stokes coefficients in json form and generator
+3. appendix.ipynb: presentation of my code
+4. deepwaves.ipynb: test rig
+5. Fenton-eta.ipynb: comparison of wave profiles ($\eta$)
+6. Fenton-Q.ipynb: comparison of Q (-q) parameter
+7. Fenton-R.ipynb: comparison of R (r)
+8. Fenton-Ub.ipynb: comparison of wave velocities
+9. limit.ipynb: maximum height profile approximation from wikipedia versus the highest wave I can generate
+10. README.md: this file
+11. requirements.txt: modules used &mdash; matplotlib, numpy, scipy
+12. stokes.ipynb: comparisons with various order and types of Stokes approximations/expansions up to 9th order
+13. waterwaves.py: code in importable module form
+
